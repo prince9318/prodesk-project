@@ -1,0 +1,9 @@
+.text-alg{
+    color: black;
+    text-align: center;
+    align-items: center;
+    padding: 180px;
+    background-image: url("https://img.freepik.com/free-vector/network-mesh-wire-digital-technology-background_1017-27428.jpg?w=1060&t=st=1681902345~exp=1681902945~hmac=034503059501b1934dd8dcf6863ee87dd4b7296db660d8100e9bf842399b2a33");
+    height: 710px;
+    text-overflow: ellipsis;
+}

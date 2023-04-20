@@ -1,0 +1,62 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+a:hover{
+    color: rgb(210, 91, 51);
+}
+.navbar{
+    display: flex;
+    height: 80px;
+    background-color: white;
+    color: black;
+    align-items: center;
+    position: sticky;
+    top: 0;
+}
+
+.logo{
+    font-size: 35px;
+    color: black;
+    list-style: none;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 40px;
+   
+}
+.nav-links{
+    display: flex;
+    list-style: none;
+    width: 80%;
+    list-style: none;
+    justify-content: flex-end;
+}
+.home,
+.about,
+.contactUs,
+.WhatWeDo,
+.projects,
+.signUp
+{
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+    box-sizing: border-box;
+    font-size: 25px;
+   text-align: center;
+    margin-right: 60px;
+}
+/* margin-top
+margin-right
+margin-bottom
+margin-left */
+.signUp{
+    border-radius: 10px;
+    background-color: aquamarine;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
