@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prodesk-project/static/css/main.827c039a.css",
+    "main.js": "/prodesk-project/static/js/main.5aa71563.js",
+    "index.html": "/prodesk-project/index.html",
+    "main.827c039a.css.map": "/prodesk-project/static/css/main.827c039a.css.map",
+    "main.5aa71563.js.map": "/prodesk-project/static/js/main.5aa71563.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.827c039a.css",
+    "static/js/main.5aa71563.js"
+  ]
+}
